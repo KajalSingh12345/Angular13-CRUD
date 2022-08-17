@@ -1,0 +1,30 @@
+{
+  "employeeList": [
+    {
+      "employeeId": "65767",
+      "firstName": "kajal",
+      "lastName": "Rani",
+      "emailId": "rani@gmail.com",
+      "salary": "120000",
+      "id": 3
+    },
+    {
+      "employeeId": "12345",
+      "firstName": "Kajal",
+      "lastName": "Singh",
+      "emailId": "singh@gmail.com",
+      "salary": "150000",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
